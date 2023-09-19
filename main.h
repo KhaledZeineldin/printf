@@ -9,7 +9,6 @@
  *int prototypes()
  *char prototypes()
  */
-
 void decimalToBinary(int num);
 int _putchar(char c);
 int print_decimal(int n);

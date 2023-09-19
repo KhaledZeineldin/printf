@@ -124,7 +124,7 @@ int _printf(const char *format, ...)
 				{
 					return (count);
 				}
-				else 
+				else
 				{
 					return (-1);
 				}

@@ -4,11 +4,13 @@
 #include <stdarg.h>
 #include <unistd.h>  
 #include <string.h>  
+
 /**
  *void prototypes()
  *int prototypes()
  *char prototypes()
  */
+
 
 void decimalToBinary(int num);
 int _putchar(char c);
